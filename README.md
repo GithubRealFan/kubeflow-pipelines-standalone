@@ -14,7 +14,6 @@ helm v3.8.0
 
 ## Installation
 
-
 ```
 helm install <RELEASE_NAME> ./helm/
 ```
